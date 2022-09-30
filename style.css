@@ -1,0 +1,47 @@
+body{
+    background-color:rgb(208, 172, 141);
+}
+#victorfoto{
+    height: 300px;
+    width: 300px;
+    border-radius: 70%;
+    margin: 0px auto;
+    display:block;
+    margin-top: 100px;
+    border-style: double;
+
+}
+.pageprincipal{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+.sobrehobby{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+.galeria{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+
+#imagenshobby{
+    height: 500px;
+    width: 350px;
+    border-radius: 20%;
+    padding: 60px;
+    user-select: none;
+    cursor: pointer;
+    
+}
+#imagenshobby:hover{
+    transition: 2s;
+    height: 500px;
+    width: 350px;
+    border-radius: 50%;
+}
+.contatos{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    
+}
